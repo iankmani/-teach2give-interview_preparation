@@ -7,6 +7,8 @@ In this primer, we'll cover the fundamentals of system design, including the key
 and best practices. We'll also explore the different types of system design, the system design process,
 and provide tips and resources for improving your system design skills.
 
+![an image of system design primer](./system%20design%20primer.webp);
+
 ### <u>Design Methods in System Design</u>
 
 There are several design methods that can be used in system design, including:
@@ -91,4 +93,22 @@ Here are some common system design interview questions:
    their past behavior and preferences.
 5. **Design a caching system:** Design a caching system that can improve the performance of a web
    application.
-6. **Design a database schema:** Design a database schema for a web application that can handle
+6. **Design a database schema:** Design a database schema for a web application that can handle  
+   millions of users and transactions per day.
+7. **Design a scalable e-commerce platform:** Design a scalable e-commerce platform that can handle
+   millions of users and transactions per day.
+8. **Design a real-time analytics system:** Design a real-time analytics system that can process and
+   analyze large amounts of data in real-time
+9. **Design a cloud-based file storage system:** Design a cloud-based file storage system that can
+   handle large amounts of data and provide high availability and durability.
+10. **Design a messaging system:** Design a messaging system that can handle large volumes of messages
+    and provide high availability and reliability.
+
+## Next Steps: Resources for Further Learning
+
+Here are some resources for further learning:
+
+1. **System Design Interview Survival Guide (2024):** Preparation Strategies and Practical Tips.
+
+2. **The Complete Guide to Ace the System Design Interview**
+3. **Ace Your System Design Interview with 7 Must-Read Papers in 2024**
