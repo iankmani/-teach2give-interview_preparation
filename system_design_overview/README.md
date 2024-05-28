@@ -1,3 +1,13 @@
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+
+- [System Design Primer: The Ultimate Guide](#system-design-primer-the-ultimate-guide)
+  - [<u>Design Methods in System Design</u>](#udesign-methods-in-system-designu)
+  - [<u>Key Concepts in System Design</u>](#ukey-concepts-in-system-designu)
+  - [<u>Components of System Design</u>](#ucomponents-of-system-designu)
+  - [Approaching System Design Interview Questions](#approaching-system-design-interview-questions)
+    - [<u>System Design Interview Questions</u>](#usystem-design-interview-questionsu)
+  - [Next Steps: Resources for Further Learning](#next-steps-resources-for-further-learning)
+
 # System Design Primer: The Ultimate Guide
 
 System design is a crucial aspect of software engineering that involves designing and implementing the architecture of a system to
